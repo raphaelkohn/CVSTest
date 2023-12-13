@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CVSTest
+
+  Created by Raphael Kohn on 12/12/23.
+  
+*/
+
+"data_retrieval_error" = "Error retrieving Flicker Data";
+"malformed_url_error" = "Invalid URL";
+
+// View Texts
+"navigation_title" = "Flicker Search";
+
+"width_literal" = "Width:";
+"height_literal" = "Height:";
+"author_literal" = "Author:";
+"tags_literal" = "Tags:";
+"date_taken_literal" = "Date Taken:";

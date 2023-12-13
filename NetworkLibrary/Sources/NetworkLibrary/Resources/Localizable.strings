@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Raphael Kohn on 12/12/23.
+  
+*/
+
+"network_error_url_encode" = "Malformed URL";
+"network_error_generic" = "Unknown Error";
